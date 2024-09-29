@@ -1,4 +1,7 @@
 import math as mt
 
-t_time = 9 * 3.14
-print(t_time)
+def calc_radius(timing):
+    ghostcums = timing * 3.14
+    return ghostcums
+
+print(calc_radius(8))
