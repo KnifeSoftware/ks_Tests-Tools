@@ -13,7 +13,7 @@ root.title("kS:GB  MP3 to WAV - Converter")
 # Set geometry(widthxheight)
 root.geometry('450x100')
 # Set Icon
-root.iconbitmap(r"C:\Users\ianbe\OneDrive\Desktop\Wicon.ico")
+root.iconbitmap(r"Wicon.ico")
 
 # adding a label to the root window
 title = Label(root, text = "by Greybush")
